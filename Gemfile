@@ -1,6 +1,6 @@
 source 'https://rubygems.org'
 source 'https://rails-assets.org'
-ruby '2.1.2'
+ruby '2.1.4'
 
 # Load environment variables first
 
